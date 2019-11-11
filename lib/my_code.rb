@@ -1,5 +1,5 @@
-map_to_negativize(array)
-array = [1, 2, 3, -9]
+map_to_negativize(source_array)
+pp source_array
 
 
 
