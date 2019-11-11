@@ -1,5 +1,6 @@
 map_to_negativize(array)
-pp array
+array = [1, 2, 3, -9]
+
 
 
 
