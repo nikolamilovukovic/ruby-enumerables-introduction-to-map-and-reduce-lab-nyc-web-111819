@@ -1,5 +1,7 @@
 def map_to_negativize(source_array)
-  pp source_array
+  map(source_array).each * -1 
+end 
+ # pp source_array
 end 
 
 
