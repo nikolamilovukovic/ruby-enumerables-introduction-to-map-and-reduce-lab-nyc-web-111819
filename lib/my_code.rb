@@ -19,6 +19,9 @@ def map_to_no_change(source_array)
   new_array
 end 
 
+def map_to_double(source_array)
+  
+
 
 
 
