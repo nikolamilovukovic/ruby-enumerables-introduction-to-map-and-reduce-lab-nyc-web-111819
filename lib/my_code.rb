@@ -1,4 +1,5 @@
-
+map_to_negativize(array)
+pp array
 
 
 
